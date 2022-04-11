@@ -1,2 +1,2 @@
 # James3
-cv
+<link rel="icon" href="favicon.ico">
